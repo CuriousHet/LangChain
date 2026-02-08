@@ -1,0 +1,11 @@
+id, first_name, last_name, email                    , age, country  , signup_date, is_active
+ 1, John      , Doe      , john.doe@example.com     ,  28, USA      , 2024-01-15 , true
+ 2, Jane      , Smith    , jane.smith@example.com   ,  34, Canada   , 2023-11-03 , true
+ 3, Mohammed  , Ali      , m.ali@example.com        ,  41, UK       , 2022-06-21 , false
+ 4, Lucia     , Rossi    , lucia.rossi@example.com  ,  26, Italy    , 2024-03-02 , true
+ 5, Kenji     , Tanaka   , kenji.t@example.com      ,  39, Japan    , 2021-09-18 , false
+ 6, Ana       , Silva    , ana.silva@example.com    ,  31, Brazil   , 2023-02-10 , true
+ 7, David     , Nguyen   , david.nguyen@example.com ,  23, USA      , 2024-05-27 , true
+ 8, Fatima    , Hassan   , f.hassan@example.com     ,  45, UAE      , 2020-12-01 , false
+ 9, Lucas     , Müller   , lucas.mueller@example.com,  37, Germany  , 2022-08-14 , true
+10, Sophia    , Garcia   , sophia.garcia@example.com,  29, Spain    , 2023-07-09 , true
